@@ -1,0 +1,37 @@
+.stButton > button {
+    color: #FFFFFF;
+    background-color: #C60C35;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.stButton > button:hover {
+    color: #FFFFFF;
+    background-color: #920000;
+    border-color: #920000;
+    font-size: 20px;
+    height: 60px;
+    width: 100%;
+}
+
+.st-emotion-cache-1ki2p8a {
+    position: absolute;
+    background-image: url("https://amymhaddad.s3.amazonaws.com/morocco-blue.png");
+    color: rgb(255, 255, 255);
+    inset: 0px;
+    color-scheme: dark;
+    overflow: hidden;
+}
+
+.st-emotion-cache-56ikwt {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    height: 2.875rem;
+    background: rgb(0, 0, 0, 0);
+    outline: none;
+    z-index: 999990;
+    display: block;
+}
